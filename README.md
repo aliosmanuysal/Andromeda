@@ -1,38 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NFT HOUSE
 
-## Getting Started
+## 🖼️ Project Description
+NFT HOUSE is a marketplace platform designed for buying, selling, and auctioning NFTs (Non-Fungible Tokens) with a seamless wallet connection experience.
 
-First, run the development server:
+## 🌟 Key Features
+- **NFT Trading:** Buy and sell digital collectibles securely on our platform
+- **Live Auctions:** Participate in real-time NFT auctions with bidding history
+- **Wallet Integration:** Connect multiple crypto wallets including MetaMask, Coinbase Wallet, and WalletConnect
+- **NFT Showcase:** Display your owned NFTs in a customizable gallery
+- **Collection Creation:** Create and curate your own NFT collections
+- **Advanced Search:** Find NFTs by creator, collection, price range, or attributes
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## 📚 Additional Features
+- Under active development - more features coming soon!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔗 Live Demo
+[NFT HOUSE Demo](https://embeddables.andromedaprotocol.io/andromeda-1/my-app)
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Installation Guide
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/aliosmanuysal/Andromeda.git
+   ```
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+2. Navigate to the project directory:
+   ```bash
+   cd Andromeda
+   ```
 
-## Learn More
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🚀 Future Scope
+- **Multi-chain Support:** Expand beyond Ethereum to support Solana, Polygon, and other blockchains
+- **NFT Creation Tools:** Built-in tools to mint your own NFTs directly on the platform
+- **Social Features:** Follow creators, like collections, and engage with the NFT community
+- **Analytics Dashboard:** Track price history, market trends, and your portfolio performance
+- **Royalty Distribution:** Automated royalty payments to original creators on secondary sales
+- **Fractional Ownership:** Allow multiple users to own fractions of high-value NFTs
 
-## Deploy on Vercel
+## 📄 License
+MIT
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-## Licensing
-
-[Terms and Conditions](https://github.com/andromedaprotocol/andromeda-core/blob/development/LICENSE/LICENSE.md)
+## 📞 Contact
+- Github: [@aliosmanuysal](https://github.com/aliosmanuysal)
+- Email: aliosmanuysall@gmail.com
